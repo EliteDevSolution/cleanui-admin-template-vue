@@ -1,0 +1,320 @@
+[
+  {
+    "name": "Button",
+    "description": "To trigger an operation.",
+    "link": "https://antdv.com/components/button/",
+    "component": "kit-antd-button-example"
+  },
+  {
+    "name": "Icon",
+    "description": "Semantic vector graphics.",
+    "link": "https://antdv.com/components/icon/",
+    "component": "kit-antd-icon-example"
+  },
+  {
+    "name": "Layout",
+    "description": "Handling the overall layout of a page.",
+    "link": "https://antdv.com/components/layout/",
+    "component": "kit-antd-layout-example"
+  },
+  {
+    "name": "Avatar",
+    "description": "Avatars can be used to represent people or objects. It supports images, Icons, or letters.",
+    "link": "https://antdv.com/components/avatar/",
+    "component": "kit-antd-avatar-example"
+  },
+  {
+    "name": "Badge",
+    "description": "Small numerical value or status descriptor for UI elements.",
+    "link": "https://antdv.com/components/badge/",
+    "component": "kit-antd-badge-example"
+  },
+  {
+    "name": "Collapse",
+    "description": "A content area which can be collapsed and expanded.",
+    "link": "https://antdv.com/components/collapse/",
+    "component": "kit-antd-collapse-example"
+  },
+  {
+    "name": "Comment",
+    "description": "A comment displays user feedback and discussion to website content.",
+    "link": "https://antdv.com/components/comment/",
+    "component": "kit-antd-comment-example"
+  },
+  {
+    "name": "Carousel",
+    "description": "A carousel component. Scales with its container.",
+    "link": "https://antdv.com/components/carousel/",
+    "component": "kit-antd-carousel-example"
+  },
+  {
+    "name": "Card",
+    "description": "Simple rectangular container.",
+    "link": "https://antdv.com/components/card/",
+    "component": "kit-antd-card-example"
+  },
+  {
+    "name": "Calendar",
+    "description": "Container for displaying data in calendar form.",
+    "link": "https://antdv.com/components/calendar/",
+    "component": "kit-antd-calendar-example"
+  },
+  {
+    "name": "List",
+    "description": "Simple List.",
+    "link": "https://antdv.com/components/list/",
+    "component": "kit-antd-list-example"
+  },
+  {
+    "name": "Popover",
+    "description": "The floating card popped by clicking or hovering.",
+    "link": "https://antdv.com/components/popover/",
+    "component": "kit-antd-popover-example"
+  },
+  {
+    "name": "Tree",
+    "description": "Tree structure",
+    "link": "https://antdv.com/components/tree/",
+    "component": "kit-antd-tree-example"
+  },
+  {
+    "name": "Tooltip",
+    "description": "A simple text popup tip.",
+    "link": "https://antdv.com/components/tooltip/",
+    "component": "kit-antd-tooltip-example"
+  },
+  {
+    "name": "Timeline",
+    "description": "Vertical display timeline.",
+    "link": "https://antdv.com/components/timeline/",
+    "component": "kit-antd-timeline-example"
+  },
+  {
+    "name": "Tag",
+    "description": "Tag for categorizing or markup.",
+    "link": "https://antdv.com/components/tag/",
+    "component": "kit-antd-tag-example"
+  },
+  {
+    "name": "Tabs",
+    "description": "Tabs make it easy to switch between different views.",
+    "link": "https://antdv.com/components/tabs/",
+    "component": "kit-antd-tabs-example"
+  },
+  {
+    "name": "Table",
+    "description": "A table displays rows of data.",
+    "link": "https://antdv.com/components/table/",
+    "component": "kit-antd-table-example"
+  },
+  {
+    "name": "AutoComplete",
+    "description": "Autocomplete function of input field.",
+    "link": "https://antdv.com/components/auto-complete/",
+    "component": "kit-antd-autocomplete-example"
+  },
+  {
+    "name": "Checkbox",
+    "description": "Checkbox component.",
+    "link": "https://antdv.com/components/checkbox/",
+    "component": "kit-antd-checkbox-example"
+  },
+  {
+    "name": "Cascader",
+    "description": "Cascade selection box.",
+    "link": "https://antdv.com/components/cascader/",
+    "component": "kit-antd-cascader-example"
+  },
+  {
+    "name": "DatePicker",
+    "description": "To select or input a date.",
+    "link": "https://antdv.com/components/date-picker/",
+    "component": "kit-antd-datepicker-example"
+  },
+  {
+    "name": "Form",
+    "description": "Form is used to collect, validate, and submit the user input, usually contains various form items including checkbox, radio, input, select, and etc.",
+    "link": "https://antdv.com/components/form/",
+    "component": "kit-antd-form-example"
+  },
+  {
+    "name": "Grid",
+    "description": "24 Grids System.",
+    "link": "https://antdv.com/components/grid/",
+    "component": "kit-antd-grid-example"
+  },
+  {
+    "name": "InputNumber",
+    "description": "Enter a number within certain range with the mouse or keyboard.",
+    "link": "https://antdv.com/components/input-number/",
+    "component": "kit-antd-inputnumber-example"
+  },
+  {
+    "name": "Input",
+    "description": "A basic widget for getting the user input is a text field. Keyboard and mouse can be used for providing or changing data.",
+    "link": "https://antdv.com/components/input/",
+    "component": "kit-antd-input-example"
+  },
+  {
+    "name": "Rate",
+    "description": "Rate component.",
+    "link": "https://antdv.com/components/rate/",
+    "component": "kit-antd-rate-example"
+  },
+  {
+    "name": "Radio",
+    "description": "Radio.",
+    "link": "https://antdv.com/components/radio/",
+    "component": "kit-antd-radio-example"
+  },
+  {
+    "name": "Switch",
+    "description": "Switching Selector.",
+    "link": "https://antdv.com/components/switch/",
+    "component": "kit-antd-switch-example"
+  },
+  {
+    "name": "Slider",
+    "description": "A Slider component for displaying current value and intervals in range.",
+    "link": "https://antdv.com/components/slider/",
+    "component": "kit-antd-slider-example"
+  },
+  {
+    "name": "Select",
+    "description": "Select component to select value from options.",
+    "link": "https://antdv.com/components/select/",
+    "component": "kit-antd-select-example"
+  },
+  {
+    "name": "TreeSelect",
+    "description": "Tree selection control.",
+    "link": "https://antdv.com/components/tree-select/",
+    "component": "kit-antd-treeselect-example"
+  },
+  {
+    "name": "Transfer",
+    "description": "Double column transfer choice box.",
+    "link": "https://antdv.com/components/transfer/",
+    "component": "kit-antd-transfer-example"
+  },
+  {
+    "name": "TimePicker",
+    "description": "By clicking the input box, you can select a time from a popup panel.",
+    "link": "https://antdv.com/components/time-picker/",
+    "component": "kit-antd-timepicker-example"
+  },
+  {
+    "name": "Upload",
+    "description": "Upload file by selecting or dragging.",
+    "link": "https://antdv.com/components/upload/",
+    "component": "kit-antd-upload-example"
+  },
+  {
+    "name": "Alert",
+    "description": "Alert component for feedback.",
+    "link": "https://antdv.com/components/alert/",
+    "component": "kit-antd-alert-example"
+  },
+  {
+    "name": "Drawer",
+    "description": "Panel slides from screen edge.",
+    "link": "https://antdv.com/components/drawer/",
+    "component": "kit-antd-drawer-example"
+  },
+  {
+    "name": "Modal",
+    "description": "Modal dialogs.",
+    "link": "https://antdv.com/components/modal/",
+    "component": "kit-antd-modal-example"
+  },
+  {
+    "name": "Message",
+    "description": "Display global messages as feedback in response to user operations.",
+    "link": "https://antdv.com/components/message/",
+    "component": "kit-antd-message-example"
+  },
+  {
+    "name": "Notification",
+    "description": "Display a notification message globally.",
+    "link": "https://antdv.com/components/notification/",
+    "component": "kit-antd-notification-example"
+  },
+  {
+    "name": "Progress",
+    "description": "Display the current progress of an operation flow.",
+    "link": "https://antdv.com/components/progress/",
+    "component": "kit-antd-progress-example"
+  },
+  {
+    "name": "Popconfirm",
+    "description": "A simple and compact confirmation dialog of an action.",
+    "link": "https://antdv.com/components/popconfirm/",
+    "component": "kit-antd-popconfirm-example"
+  },
+  {
+    "name": "Spin",
+    "description": "A spinner for displaying loading state of a page or a section.",
+    "link": "https://antdv.com/components/spin/",
+    "component": "kit-antd-spin-example"
+  },
+  {
+    "name": "Skeleton",
+    "description": "Provide a placeholder at the place which need waiting for loading.",
+    "link": "https://antdv.com/components/skeleton/",
+    "component": "kit-antd-skeleton-example"
+  },
+  {
+    "name": "Affix",
+    "description": "Make an element stick to viewport.",
+    "link": "https://antdv.com/components/affix/",
+    "component": "kit-antd-affix-example"
+  },
+  {
+    "name": "Breadcrumb",
+    "description": "A breadcrumb displays the current location within a hierarchy. It allows going back to states higher up in the hierarchy.",
+    "link": "https://antdv.com/components/breadcrumb/",
+    "component": "kit-antd-breadcrumb-example"
+  },
+  {
+    "name": "Dropdown",
+    "description": "A dropdown list.",
+    "link": "https://antdv.com/components/dropdown/",
+    "component": "kit-antd-dropdown-example"
+  },
+  {
+    "name": "Menu",
+    "description": "Menu list of Navigation.",
+    "link": "https://antdv.com/components/menu/",
+    "component": "kit-antd-menu-example"
+  },
+  {
+    "name": "Pagination",
+    "description": "A long list can be divided into several pages by Pagination, and only one page will be loaded at a time.",
+    "link": "https://antdv.com/components/pagination/",
+    "component": "kit-antd-pagination-example"
+  },
+  {
+    "name": "Steps",
+    "description": "Steps is a navigation bar that guides users through the steps of a task.",
+    "link": "https://antdv.com/components/steps/",
+    "component": "kit-antd-steps-example"
+  },
+  {
+    "name": "Anchor",
+    "description": "Hyperlinks to scroll on one page.",
+    "link": "https://antdv.com/components/anchor/",
+    "component": "kit-antd-anchor-example"
+  },
+  {
+    "name": "BackTop",
+    "description": "BackTop makes it easy to go back to the top of the page.",
+    "link": "https://antdv.com/components/back-top/",
+    "component": "kit-antd-backtop-example"
+  },
+  {
+    "name": "Divider",
+    "description": "A divider line separates different content.",
+    "link": "https://antdv.com/components/divider/",
+    "component": "kit-antd-divider-example"
+  }
+]

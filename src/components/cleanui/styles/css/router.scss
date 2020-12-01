@@ -1,0 +1,63 @@
+@import 'components/mixins.scss';
+
+/* Slide Fade Up */
+
+.slide-fadein-up-enter-active,
+.slide-fadein-up-leave-active {
+	transition: opacity .3s, transform .4s;
+}
+
+.slide-fadein-up-enter {
+	opacity: 0;
+	transform: translateY(20px)
+}
+
+.slide-fadein-up-leave-to {
+	opacity: 0;
+	transform: translateY(-20px)
+}
+
+/* Slide Fade Right */
+
+.slide-fadein-right-enter-active,
+.slide-fadein-right-leave-active {
+	transition: opacity .3s, transform .4s;
+}
+
+.slide-fadein-right-enter {
+	opacity: 0;
+	transform: translateX(-20px)
+}
+
+.slide-fadein-right-leave-to {
+	opacity: 0;
+	transform: translateX(20px)
+}
+
+/* Zoom Fade */
+
+.zoom-fadein-enter-active,
+.zoom-fadein-leave-active {
+  transition: transform .3s, opacity .3s ease-in-out;
+}
+.zoom-fadein-enter {
+  transform: scale(0.99);
+  opacity: 0;
+}
+
+.zoom-fadein-leave-to {
+  transform: scale(1.01);
+  opacity: 0;
+}
+
+/* Fade */
+
+.fadein-enter-active,
+.fadein-leave-active {
+  transition: opacity .3s ease-in-out !important;
+}
+
+.fadein-enter,
+.fadein-leave-to {
+  opacity: 0 !important;
+}

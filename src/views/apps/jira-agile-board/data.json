@@ -1,0 +1,54 @@
+{
+  "backlog": [
+    {
+      "id": 0,
+      "color": "primary",
+      "title": "Backend Issue",
+      "deadline": "7:00",
+      "participant": "resources/images/avatars/2.jpg",
+      "note": "AWS-200",
+      "income": true
+    },
+    {
+      "id": 1,
+      "color": "success",
+      "title": "Prepare Activity List",
+      "deadline": "9:45",
+      "participant": "resources/images/avatars/1.jpg",
+      "note": "AWS-200",
+      "income": false
+    }
+  ],
+  "todo": [
+    {
+      "id": 2,
+      "color": "danger",
+      "title": "Schedule error",
+      "deadline": "4:02",
+      "participant": "resources/images/avatars/3.jpg",
+      "note": "AWS-200",
+      "income": false
+    },
+    {
+      "id": 3,
+      "color": "success",
+      "title": "Prepare Activity List",
+      "deadline": "9:45",
+      "participant": "resources/images/avatars/5.jpg",
+      "note": "AWS-200",
+      "income": true
+    }
+  ],
+  "progress": [
+    {
+      "id": 4,
+      "color": "primary",
+      "title": "Project fixes",
+      "deadline": "1:10",
+      "participant": "resources/images/avatars/3.jpg",
+      "note": "AWS-200",
+      "income": true
+    }
+  ],
+  "completed": []
+}

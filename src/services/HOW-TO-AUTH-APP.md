@@ -1,0 +1,1 @@
+Please read authentication docs with code examples here https://docs.cleanuitemplate.com

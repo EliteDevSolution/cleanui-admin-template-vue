@@ -1,0 +1,230 @@
+[
+  {
+    "name": "Alerts",
+    "description": "Provide contextual feedback messages for typical user actions with the handful of available and flexible alert messages.",
+    "link": "https://bootstrap-vue.js.org/docs/components/alert",
+    "component": "kit-bootstrap-alert-example"
+  },
+  {
+    "name": "Badges",
+    "description": "Small and adaptive tag for adding context to just about any content.",
+    "link": "https://bootstrap-vue.js.org/docs/components/badge",
+    "component": "kit-bootstrap-badges-example"
+  },
+  {
+    "name": "Breadcrumb",
+    "description": "Indicate the current page's location within a navigational hierarchy.",
+    "link": "https://bootstrap-vue.js.org/docs/components/breadcrumb",
+    "component": "kit-bootstrap-breadcrumb-example"
+  },
+  {
+    "name": "Buttons",
+    "description": "Use Bootstrap's custom b-button component for actions in forms, dialogs, and more. Includes support for a handful of contextual variations, sizes, states, and more.",
+    "link": "https://bootstrap-vue.js.org/docs/components/button",
+    "component": "kit-bootstrap-buttons-example"
+  },
+  {
+    "name": "Button group",
+    "description": "Group a series of buttons together on a single line.",
+    "link": "https://bootstrap-vue.js.org/docs/components/button-group",
+    "component": "kit-bootstrap-button-group-example"
+  },
+  {
+    "name": "Button toolbar",
+    "description": "Group a series of button-groups and/or input-groups together on a single line, with optional keyboard navigation",
+    "link": "https://bootstrap-vue.js.org/docs/components/button-toolbar",
+    "component": "kit-bootstrap-button-toolbar-example"
+  },
+  {
+    "name": "Cards",
+    "description": "A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, and powerful display options.",
+    "link": "https://bootstrap-vue.js.org/docs/components/card",
+    "component": "kit-bootstrap-cards-example"
+  },
+  {
+    "name": "Carousel",
+    "description": "The carousel is a slideshow for cycling through a series of content, built with CSS 3D transforms. It works with a series of images, text, or custom markup. It also includes support for previous/next controls and indicators.",
+    "link": "https://bootstrap-vue.js.org/docs/components/carousel",
+    "component": "kit-bootstrap-carousel-example"
+  },
+  {
+    "name": "Collapse",
+    "description": "Easily toggle visibility of almost any content on your pages. Includes support for making accordions.",
+    "link": "https://bootstrap-vue.js.org/docs/components/collapse",
+    "component": "kit-bootstrap-collapse-example"
+  },
+  {
+    "name": "Dropdowns",
+    "description": "Dropdowns are toggleable, contextual overlays for displaying lists of links and actions in a dropdown menu format.",
+    "link": "https://bootstrap-vue.js.org/docs/components/dropdown",
+    "component": "kit-bootstrap-dropdowns-example"
+  },
+  {
+    "name": "Responsive Embeds",
+    "description": "Create responsive video or slideshow embeds based on the width of the parent by creating an intrinsic ratio that scales on any device.",
+    "link": "https://bootstrap-vue.js.org/docs/components/embed",
+    "component": "kit-bootstrap-embed-example"
+  },
+  {
+    "name": "Form",
+    "description": "BootstrapVue form component and helper components that optionally support inline form styles and validation states. Pair them up with other BootstrapVue form control components for an easy customized, and responsive, layout with a consistent look and feel.",
+    "link": "https://bootstrap-vue.js.org/docs/components/form",
+    "component": "kit-bootstrap-form-example"
+  },
+  {
+    "name": "Form Checkbox Inputs",
+    "description": "Form Checkbox Inputs",
+    "link": "https://bootstrap-vue.js.org/docs/components/form-checkbox",
+    "component": "kit-bootstrap-form-checkbox-example"
+  },
+  {
+    "name": "Form File Input",
+    "description": "Customized, cross-browser consistent, file input control that supports single file, multiple files, and directory upload (for browsers that support directory mode)",
+    "link": "https://bootstrap-vue.js.org/docs/components/form-file",
+    "component": "kit-bootstrap-form-file-example"
+  },
+  {
+    "name": "Form group",
+    "description": "Form group",
+    "link": "https://bootstrap-vue.js.org/docs/components/form-group",
+    "component": "kit-bootstrap-form-group-example"
+  },
+  {
+    "name": "Textual and Value Inputs",
+    "description": "Create various type inputs such as: text, password, number, url, email, search, range, date and more.",
+    "link": "https://bootstrap-vue.js.org/docs/components/form-input",
+    "component": "kit-bootstrap-form-input-example"
+  },
+  {
+    "name": "Form Radio Inputs",
+    "description": "Form Radio Inputs",
+    "link": "https://bootstrap-vue.js.org/docs/components/form-radio",
+    "component": "kit-bootstrap-form-radio-example"
+  },
+  {
+    "name": "Form Select",
+    "description": "Bootstrap custom <select> using custom styles. Optionally specify options based on an array, array of objects, or an object.",
+    "link": "https://bootstrap-vue.js.org/docs/components/form-select",
+    "component": "kit-bootstrap-form-select-example"
+  },
+  {
+    "name": "Form Textarea",
+    "description": "Create multi-line text inputs with support for auto height sizing, minimum and maximum number of rows, and contextual states.",
+    "link": "https://bootstrap-vue.js.org/docs/components/form-textarea",
+    "component": "kit-bootstrap-form-textarea-example"
+  },
+  {
+    "name": "Images",
+    "description": "BootstrapVue's image components support rounded images, thumbnail styling, alignment, and even the ability to create blank images with an optional solid background color.",
+    "link": "https://bootstrap-vue.js.org/docs/components/image",
+    "component": "kit-bootstrap-image-example"
+  },
+  {
+    "name": "Input Groups",
+    "description": "Easily extend form controls by adding text, buttons, or button groups on either side of textual inputs.",
+    "link": "https://bootstrap-vue.js.org/docs/components/input-group",
+    "component": "kit-bootstrap-input-group-example"
+  },
+  {
+    "name": "Jumbotron",
+    "description": "A lightweight, flexible component that can optionally extend the entire viewport to showcase key marketing messages on your site.",
+    "link": "https://bootstrap-vue.js.org/docs/components/jumbotron",
+    "component": "kit-bootstrap-jumbotron-example"
+  },
+  {
+    "name": "Layout and Grid System",
+    "description": "BootstrapVue provides several convenient functional components tailored for layout, which can simplify your complex page markup compared to traditional Bootstrap v4 markup. ",
+    "link": "https://bootstrap-vue.js.org/docs/components/layout",
+    "component": "kit-bootstrap-layout-example"
+  },
+  {
+    "name": "Links",
+    "description": "Links",
+    "link": "https://bootstrap-vue.js.org/docs/components/link",
+    "component": "kit-bootstrap-link-example"
+  },
+  {
+    "name": "List group",
+    "description": "List groups are a flexible and powerful component for displaying a series of content. List group items can be modified to support just about any content within. They can also be used as navigation via various props.",
+    "link": "https://bootstrap-vue.js.org/docs/components/list-group",
+    "component": "kit-bootstrap-list-group-example"
+  },
+  {
+    "name": "Media",
+    "description": "The media object helps build complex and repetitive components where some media is positioned alongside content that doesn't wrap around said media. Plus, it does this with only two required classes thanks to flexbox.",
+    "link": "https://bootstrap-vue.js.org/docs/components/media",
+    "component": "kit-bootstrap-media-example"
+  },
+  {
+    "name": "Modals",
+    "description": "Modals are streamlined, but flexible dialog prompts powered by JavaScript and CSS. They support a number of use cases from user notification to completely custom content and feature a handful of helpful sub-components, sizes, variants, accessibility, and more.",
+    "link": "https://bootstrap-vue.js.org/docs/components/modal",
+    "component": "kit-bootstrap-modal-example"
+  },
+  {
+    "name": "Navs",
+    "description": "Component is built with flexbox and provides a strong foundation for building all types of navigation components. It includes some style overrides (for working with lists), some link padding for larger hit areas, and basic disabled styling. No active states are included in the base nav.",
+    "link": "https://bootstrap-vue.js.org/docs/components/nav",
+    "component": "kit-bootstrap-nav-example"
+  },
+  {
+    "name": "Navbar",
+    "description": "The component <b-navbar> is a wrapper that positions branding, navigation, and other elements into a concise header. It's easily extensible and thanks to the <b-collapse> component, it can easily integrate responsive behaviors.",
+    "link": "https://bootstrap-vue.js.org/docs/components/navbar",
+    "component": "kit-bootstrap-navbar-example"
+  },
+  {
+    "name": "Pagination",
+    "description": "Quick first, previous, next, last, and page buttons for pagination control of another component.",
+    "link": "https://bootstrap-vue.js.org/docs/components/pagination",
+    "component": "kit-bootstrap-pagination-example"
+  },
+  {
+    "name": "Pagination Navigation",
+    "description": "Quick first, previous, next, last, and page buttons for navigation based pagination, supporting regular links or router links.",
+    "link": "https://bootstrap-vue.js.org/docs/components/pagination-nav",
+    "component": "kit-bootstrap-pagination-nav-example"
+  },
+  {
+    "name": "Popover",
+    "description": "The Popover feature, which provides a tooltip-like behavior, can be easily applied to any interactive element.",
+    "link": "https://bootstrap-vue.js.org/docs/components/popover",
+    "component": "kit-bootstrap-popover-example"
+  },
+  {
+    "name": "Progress",
+    "description": "Use our custom progress component for displaying simple or complex progress bars, featuring support for horizontally stacked bars, animated backgrounds, and text labels.",
+    "link": "https://bootstrap-vue.js.org/docs/components/progress",
+    "component": "kit-bootstrap-progress-example"
+  },
+  {
+    "name": "Spinners",
+    "description": "Component can be used to show the loading state in your projects. They're rendered only with basic HTML and CSS as a lightweight Vue functional component. Their appearance, alignment, and sizing can be easily customized with a few built-in props and/or Bootstrap v4 utility classes.",
+    "link": "https://bootstrap-vue.js.org/docs/components/spinner",
+    "component": "kit-bootstrap-spinner-example"
+  },
+  {
+    "name": "Tables",
+    "description": "For displaying tabular data, supports pagination, filtering, sorting, custom rendering, various style options, events, and asynchronous data.",
+    "link": "https://bootstrap-vue.js.org/docs/components/table",
+    "component": "kit-bootstrap-table-example"
+  },
+  {
+    "name": "Tabs / Pills",
+    "description": "Create a widget of tabbable panes of local content. The tabs component is built upon navs and cards internally, and provides full keyboard navigation control of the tabs.",
+    "link": "https://bootstrap-vue.js.org/docs/components/tabs",
+    "component": "kit-bootstrap-tabs-example"
+  },
+  {
+    "name": "Toasts",
+    "description": "Toasts are lightweight notifications designed to mimic the push notifications that have been popularized by mobile and desktop operating systems.",
+    "link": "https://bootstrap-vue.js.org/docs/components/toast",
+    "component": "kit-bootstrap-toast-example"
+  },
+  {
+    "name": "Tooltips",
+    "description": "Easily add tooltips to elements or components.",
+    "link": "https://bootstrap-vue.js.org/docs/components/tooltip",
+    "component": "kit-bootstrap-tooltip-example"
+  }
+]

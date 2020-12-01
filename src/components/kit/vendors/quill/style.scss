@@ -1,0 +1,32 @@
+@import '@/components/mixins.scss';
+
+/////////////////////////////////////////////////////////////////////////////////////////
+/*  QUILL */
+
+// dark theme
+[data-kit-theme='dark'] {
+  .ql-container, .ql-toolbar {
+    border-color: $dark-gray-4;
+  }
+  .ql-editor.ql-blank::before {
+    color: $dark-gray-3;
+  }
+  .ql-toolbar {
+    .ql-stroke {
+      stroke: $white;
+    }
+    .ql-fill {
+      fill: $white;
+    }
+    .ql-picker-label {
+      color: $white;
+    }
+    .ql-picker.ql-expanded .ql-picker-options {
+      border-color: $dark-gray-4;
+    }
+    .ql-picker-options {
+      background: $dark-gray-4;
+      color: $white;
+    }
+  }
+}
